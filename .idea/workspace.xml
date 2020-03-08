@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c4f7651-9fed-40d3-8164-70806d834d27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Adam Marciszewski &lt;58745541+amarcisz@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1YrmJXD8uwrEFoyMo2PW2GUlkdn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Adam\IdeaProjects\OperatingSystems1" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c4f7651-9fed-40d3-8164-70806d834d27" name="Default Changelist" comment="" />
+      <created>1583709015621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583709015621</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit of Operating Systems Assignments and Labs">
+      <created>1583709090974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583709090974</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;Initial Commit of Operating Systems Assignments and Labs&quot;&#10;&#10;This reverts commit 8a7fcf73">
+      <created>1583709345277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583709345277</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit for code from Operating Systems Assignments and Labs">
+      <created>1583709401853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583709401853</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit for code from Operating Systems Assignments and Labs">
+      <created>1583709840205</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583709840205</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit for code from Operating Systems Assignments and Labs">
+      <created>1583709927069</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583709927069</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit of Operating Systems Assignments and Labs" />
+    <MESSAGE value="Revert &quot;Initial Commit of Operating Systems Assignments and Labs&quot;&#10;&#10;This reverts commit 8a7fcf73" />
+    <MESSAGE value="Initial Commit for code from Operating Systems Assignments and Labs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit for code from Operating Systems Assignments and Labs" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="113" key="CommitChangelistDialog2" timestamp="1583709926578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583709926578" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1583709941237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583709941237" />
+    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583709283002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583709283002" />
+  </component>
+</project>
