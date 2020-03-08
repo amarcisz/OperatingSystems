@@ -1,0 +1,2 @@
+ Let’s expand our model to now actually use threads for each CPU! Using pthreads, modify your program from Assignment #2, Question #2 to create one pthread per cpu that you specify.
+ Each thread should act as a cpu and remove a job from the queue and then sleep() for the duration of the task. Be careful to protect your shared data by using locks to control access!

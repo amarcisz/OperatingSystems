@@ -1,0 +1,13 @@
+User	Process	Arrival	Duration	Priority
+Arya	A	1	12	1
+Bronn	B	2	11	2
+Cersei	C	3	10	3
+Daenerys	D	4	9	4
+Eddard	E	5	8	5
+Farlen	F	6	7	6
+Gregor	G	7	6	7
+Hodor	H	8	5	8
+Irri	I	9	4	9
+Joffrey	J	10	3	10
+Kevan	K	11	2	12
+Lancel	L	12	1	11

@@ -1,0 +1,5 @@
+User	Process	Arrival	Duration	Priority
+Daenerys	D	6	4	2
+Arya	B	4	3	3
+Daenerys	C	3	2	4
+Arya	A	1	1	5
